@@ -11,5 +11,6 @@ Getting Started:
 
 Open the zipped folder and open the file (MainWindow.xmal) which will take you to Visual Studio. Click on start without bugging (ctrl + F5) to compile the application. Follow the on-screen instructions.
 
-![image](https://github.com/Lerato-Mabija07/PROG6221_POE_FINAL/assets/130465883/52c91ab3-35b8-476e-b01a-592eececcb74)
+![image](https://github.com/Lerato-Mabija07/PROG6221_POE_FINAL/assets/130465883/a49d43cf-987b-4154-a372-60b52c5ffd39)
+
 
